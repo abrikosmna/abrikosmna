@@ -5,3 +5,4 @@
 
 
 
+![Metrics](/github-metrics.svg)
