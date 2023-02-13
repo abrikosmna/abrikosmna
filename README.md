@@ -3,5 +3,5 @@
     <img style='position:absolute; z-index:2;' src='https://raw.githubusercontent.com/abrikosmna/abrikosmna/main/anime_picture.jfif' width='300px' alt="00.webp"/>
 </div> 
 
-
+![](https://komarev.com/ghpvc/?username=abrikosmna)
 
